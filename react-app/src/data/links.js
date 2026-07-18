@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Beacon (Schneider Geospatial)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Richland County Government", category: "Government", subcategory: "County", url: "https://www.richlandcountyoh.gov/", description: "Official website for Richland County Ohio - departments and services." },
